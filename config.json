@@ -1,0 +1,38 @@
+{
+    "welcomeChannel": "1166778066605981798",
+    "verifyChannelId": "1166778067746836594",
+    "serverId": "1100454980101607574",
+    "memberId": "1100462301234073710",
+    "boostsChannelId": "1166778121337450607",
+    "sugChannelId": "1166778132498485268",
+    "commandsChannelId": "1166778131064049774",
+    "muteRoleId": "1166777868190232689",
+    "ticketBlockRoleId": "1166777869490471013",
+    "allowlistRole": "1166777864327266344",
+
+    "questionParent": "1166778049270927494",
+    "donationParent": "1166778044942385242",
+    "crazyParent": "1166778041024917525",
+    "banParent": "1166778048121684058",
+    "reportParent": "1166778047010189342",
+    "reportStaffParent": "1166778045886119936",
+    "birurParent": "1166778044053196890",
+    "returnParent": "1166778050504052777",
+    "legalParent": "1166778042048315432",
+    "illegalParent": "1166778043168202914",
+    "devParent":"1166804767192924291",
+
+    "staffRole": "1166777863337418848",
+    "headStaffRole": "1166777852226715720",
+    "managementRole": "1166777851425607741",
+    "serverManagerRole": "1166777850507042817",
+
+    "waitingRole": "1166777865346490419",
+
+    "livesChannel": "1166778129692512256",
+    "clipChannel": "1166778128333553774",
+
+    "ticketLogs": "1166796876507512862",
+
+    "maxPlayers": "46"
+}

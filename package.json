@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^1.5.1",
+    "cfx-api": "^1.1.0",
+    "discord-fivem-api": "^2.0.2",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.9.0",
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.2"
+  },
+  "name": "bot-test",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
